@@ -1,0 +1,1 @@
+# Asset management for backgrounds and images
